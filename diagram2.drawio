@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T05:55:56.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sX4eWXncAs4YJ87ln-29" version="20.8.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-29T05:57:47.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="eSAQnNJMtnm_5Car0roL" version="20.8.11" type="github" pages="4">
   <diagram name="Page-1" id="73H9CBfih1wd_lHmCo1n">
     <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -316,6 +316,9 @@
         <mxCell id="_v1hW3p0XYmbJO2bgSYn-1" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6IaaB_VYUBGCzXYEQZhU-2" value="Batch Norm" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -623,6 +626,9 @@
         </mxCell>
         <mxCell id="2FLU6n_0aeyapkDN0gaq-3" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="410" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eG9cVGJQcEx-y4aoc1br-1" value="Layer Norm" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -944,6 +950,9 @@
         <mxCell id="EX-pNQ_wxv_cRxqxfZ39-3" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="410" y="260" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FZYqziS5Wc01NCQCRNmu-1" value="Group Norm" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1251,6 +1260,9 @@
         </mxCell>
         <mxCell id="OzrFw_CUIKPaJcrR6wCO-3" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="410" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="reUppHamUFRI4TsCbbRm-1" value="Instance Norm" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
